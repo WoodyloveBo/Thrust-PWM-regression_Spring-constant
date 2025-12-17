@@ -1,0 +1,87 @@
+10g
+Test1
+[STAT] length mean=0.284952 std=0.002722 min=0.276555 max=0.290605
+Test2
+[STAT] length mean=0.284620 std=0.001637 min=0.279623 max=0.288080
+Test3
+[STAT] length mean=0.284521 std=0.002085 min=0.278595 max=0.288632
+
+11g
+Test1
+[STAT] length mean=0.293995 std=0.002031 min=0.289486 max=0.299411
+Test2
+[STAT] length mean=0.294017 std=0.001858 min=0.288841 max=0.299089
+Test3
+[STAT] length mean=0.294121 std=0.001334 min=0.290795 max=0.297822
+
+12g
+Test1
+[STAT] length mean=0.302337 std=0.001099 min=0.299825 max=0.305288
+Test2
+[STAT] length mean=0.302496 std=0.001436 min=0.298328 max=0.306241
+Test3
+[STAT] length mean=0.301799 std=0.001383 min=0.298496 max=0.304907
+
+13g
+Test1
+[STAT] length mean=0.302387 std=0.003842 min=0.288734 max=0.312968
+Test2
+[STAT] length mean=0.302179 std=0.001509 min=0.298154 max=0.307438
+Test3
+[STAT] length mean=0.302507 std=0.001264 min=0.299245 max=0.305473
+
+14g
+Test1
+[STAT] length mean=0.316174 std=0.001188 min=0.313065 max=0.318766
+Test2
+[STAT] length mean=0.316377 std=0.001376 min=0.313809 max=0.319947
+Test3
+[STAT] length mean=0.316478 std=0.001254 min=0.313081 max=0.319585
+
+15g
+Test1
+[STAT] length mean=0.338591 std=0.002481 min=0.331515 max=0.343494
+Test2
+[STAT] length mean=0.338917 std=0.004083 min=0.329153 max=0.349886
+Test3
+[STAT] length mean=0.338740 std=0.001877 min=0.335221 max=0.344786
+
+16g
+Test1
+[STAT] length mean=0.344028 std=0.001906 min=0.337951 max=0.348803
+Test2
+[STAT] length mean=0.345743 std=0.006021 min=0.335647 max=0.373152
+Test3
+[STAT] length mean=0.344544 std=0.001284 min=0.340802 max=0.348038
+
+17g
+Test1
+[STAT] length mean=0.357504 std=0.001053 min=0.354167 max=0.360042
+Test2
+[STAT] length mean=0.357303 std=0.001726 min=0.352429 max=0.362591
+Test3
+[STAT] length mean=0.357721 std=0.001470 min=0.353326 max=0.361966
+
+18g
+Test1
+[STAT] length mean=0.380837 std=0.001988 min=0.376258 max=0.387582
+Test2
+[STAT] length mean=0.380406 std=0.001637 min=0.376842 max=0.384063
+Test3
+[STAT] length mean=0.380915 std=0.002095 min=0.376084 max=0.385809
+
+19g
+Test1
+[STAT] length mean=0.394859 std=0.002291 min=0.387996 max=0.400260
+Test2
+[STAT] length mean=0.395095 std=0.002491 min=0.387840 max=0.400165
+Test3
+[STAT] length mean=0.395512 std=0.001042 min=0.391734 max=0.397797
+
+20g
+Test1
+[STAT] length mean=0.392215 std=0.000953 min=0.389803 max=0.393924
+Test2
+[STAT] length mean=0.391611 std=0.002296 min=0.387178 max=0.395844
+Test3
+[STAT] length mean=0.392238 std=0.001577 min=0.387489 max=0.395261
